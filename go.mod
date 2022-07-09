@@ -3,7 +3,7 @@ module github.com/theoria24/salomizer
 go 1.18
 
 require (
-	github.com/jiro4989/ojosama v0.7.0
+	github.com/jiro4989/ojosama v0.8.0
 	github.com/joho/godotenv v1.4.0
 	github.com/mattn/go-mastodon v0.0.5
 )
